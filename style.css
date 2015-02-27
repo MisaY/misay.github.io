@@ -1,16 +1,15 @@
-body {background-color:#F5FFFA; 
-}
-h1, p {
-	font-family:droidsans,helvetica,sans-serif;
-	text-align:center;
-}
-
-h1{
-	color:#FF5050;
-	font-size:40px;
+body {
+		background-color:#F5FFFA; 
+		font-family: droidsans, helvetica, sans-serif;
+		text-align:center;
 }
 
-p{
-	font-size:18px; 
-	color:#565656;
+	h1{
+		color:#FF5050;
+		font-size:40px;
+}
+
+	p{
+		 color:#565656;
+		 font-size:18px;
 }
