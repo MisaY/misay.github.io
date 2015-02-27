@@ -1,16 +1,16 @@
 body {background-color:#F5FFFA; 
 }
 h1, p {
-	font: Droid Sans, Helvetica, sans-serif;
-	text-align: center;
+	font-family:Droid Sans,Helvetica,sans-serif;
+	text-align:center;
 }
 
 h1{
 	color:#FF5050;
-	font-size: 40px;
+	font-size:40px;
 }
 
 p{
-	font-size: 18px; 
+	font-size:18px; 
 	color:#565656;
 }
