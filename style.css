@@ -1,14 +1,16 @@
 body {
-	background-color:#F5FFFA;
-	color:#565656;
+	background-color:#fffef8;
+	color:#323366;
 	font-family: 'Droid Sans', sans-serif;
 	font-size:18px;
-	text-align:center;
+	text-align:left;
 	
 }
 h1 {
 	color:#FF5050;
 	font-family:;
 	font-size:2em;
-	text-align: left;
+}
+img{
+
 }
