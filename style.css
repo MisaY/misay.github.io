@@ -3,16 +3,20 @@ body {
 	color:#323366;
 	font-family: 'Sintony', sans-serif;
 	font-size:18px;
-	text-align:left;
-	
+	text-align:left;	
 }
-Section#splash{
+
+section#splash{
 	Height:100vh;
+}
+
+section#splash div{
+	padding:200px;
 
 }
 h1 {
 	color:#db776d;
-	font-family:;
+	font-family:font-family: 'Vollkorn', serif;
 	font-size:2em;
 }
 hr{
