@@ -6,12 +6,17 @@ body {
 	text-align:left;
 	
 }
+Section#splash{
+	Height:100vh;
+
+}
 h1 {
 	color:#db776d;
 	font-family:;
 	font-size:2em;
 }
 hr{
+	color:#db776d;
 	height:2em;
 }
 img{
