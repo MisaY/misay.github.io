@@ -5,9 +5,14 @@ body {
 	font-size:18px;
 	text-align:left;	
 }
+header{
+	background-color:#fff;
+	height:100vh;
+	padding:100px;
 
+}
 section#splash{
-	Height:100vh;
+	height:100vh;
 }
 
 section#splash div{
