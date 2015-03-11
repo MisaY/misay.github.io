@@ -11,7 +11,11 @@ header{
 	padding:50px;
 
 }
+nav{
+	font-style:bold;
+}
 
+}
 section#splash div{
 	padding:100px;
 }
