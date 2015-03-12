@@ -14,11 +14,12 @@ header{
 nav{
 	font-style:bold;
 	text-align:right;
+	text-transform:uppercase;
 }
 
 }
 section#splash div{
-	padding:100px;
+	padding:50px;
 }
 h1 {
 	color:#db776d;
