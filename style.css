@@ -14,22 +14,33 @@ header{
 nav{
 	color:#F48E7D;
 	display: block;
+	font-family:'Sintony', sans-serif;
+	font-size:1.5em;
 	font-style:bold;
 	text-align:right;
 	text-decoration:none;
 	text-transform:uppercase;
 }
+.border{
+	text-align:left;
+	border;
 
+}
 section#splash div{
 	background-image:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
+	background-size:cover;
 	height:100vh;
-	padding:50px;
+	padding:400px;
 }
 h1 {
 	color:#db776d;
 	font-family:font-family: 'Vollkorn', serif;
 	font-size:2em;
+}
+h2{
+	color:#fff;
+	font-family:;
 }
 hr{
 	color:#db776d;
