@@ -12,7 +12,7 @@ header{
 
 }
 a{
-	color:none;
+	color:#F48E7D;
 	text-decoration:none;
 }
 nav{
@@ -26,8 +26,9 @@ nav{
 	text-transform:uppercase;
 }
 .border{
+	border:1em;
+	font-size:1.5em;
 	text-align:left;
-	border;
 
 }
 section#splash div{
