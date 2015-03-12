@@ -19,15 +19,11 @@ nav{
 	text-decoration:none;
 	text-transform:uppercase;
 }
-#imagesplash {
-	height:100vh;
 
-}
-}
-#splash div{
+section#splash div{
 	background-image:url('images/splash_1.jpg');
+	height:100vh;
 	padding:50px;
-
 }
 h1 {
 	color:#db776d;
