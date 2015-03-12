@@ -19,7 +19,10 @@ nav{
 	text-decoration:none;
 	text-transform:uppercase;
 }
+#imagesplash {
+	height:100vh;
 
+}
 }
 #splash div{
 	background-image:url('images/splash_1.jpg');
