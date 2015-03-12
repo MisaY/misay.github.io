@@ -11,6 +11,10 @@ header{
 	padding:50px;
 
 }
+a{
+	color:none;
+	text-decoration:none;
+}
 nav{
 	color:#F48E7D;
 	display: block;
@@ -31,7 +35,7 @@ section#splash div{
 	background-repeat: no-repeat;
 	background-size:cover;
 	height:100vh;
-	padding:400px;
+	padding:100px;
 }
 h1 {
 	color:#db776d;
