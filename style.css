@@ -22,6 +22,7 @@ nav{
 
 section#splash div{
 	background-image:url('images/splash_1.jpg');
+	background-repeat: no-repeat;
 	height:100vh;
 	padding:50px;
 }
