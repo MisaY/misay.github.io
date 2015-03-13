@@ -26,6 +26,10 @@ nav{
 	text-decoration:none;
 	text-transform:uppercase;
 }
+section#splash{
+	height:400px;
+
+}
 
 section#splash div{
 	background-image:url('images/splash_1.jpg');
