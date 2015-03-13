@@ -35,8 +35,9 @@ section#splash div{
 	background-image:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-	padding:50px;
+	height:100vh;
 	margin-top: 50px
+	padding: 50px; 
 }
 h1 {
 	color:#db776d;
