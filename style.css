@@ -3,6 +3,7 @@ body {
 	color:#323366;
 	font-family: 'Sintony', sans-serif;
 	font-size:18px;
+	font-weight:400;
 	text-align:left;	
 }
 header{
@@ -20,7 +21,7 @@ nav{
 	display: block;
 	font-family:'Sintony', sans-serif;
 	font-size:1.5em;
-	font-style:bold;
+	font-weight:700;
 	text-align:right;
 	text-decoration:none;
 	text-transform:uppercase;
@@ -37,7 +38,7 @@ h1 {
 	color:#db776d;
 	font-family:'Vollkorn', serif;
 	font-size:1.5em;
-	font-style:normal;
+	font-weight:400;
 }
 h2{
 	color:#fff;
