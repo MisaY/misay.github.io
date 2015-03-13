@@ -31,15 +31,16 @@ nav{
 	border-color:#fff;
 	color:#fff;
 	text-align:center;
-	paddiing:1em;
+	padding:1em;
+	width:5em;
 
 }
 section#splash div{
 	background-image:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
 	background-size:cover;
-	height:75vh;
-	padding:100px;
+	height:100vh;
+	padding:50px;
 }
 h1 {
 	color:#db776d;
