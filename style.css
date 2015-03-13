@@ -27,7 +27,7 @@ nav{
 	text-transform:uppercase;
 }
 section#splash{
-	height:600px;
+	height:800px;
 
 }
 
@@ -36,7 +36,7 @@ section#splash div{
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding:50px;
-	margin-top: 10px
+	margin-top: 50px
 }
 h1 {
 	color:#db776d;
