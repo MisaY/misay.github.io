@@ -25,16 +25,7 @@ nav{
 	text-decoration:none;
 	text-transform:uppercase;
 }
-.border{
-	border-style:solid;
-	border-width:1px;
-	border-color:#fff;
-	color:#fff;
-	text-align:center;
-	padding:1em;
-	width:25%;
 
-}
 section#splash div{
 	background-image:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
@@ -62,5 +53,14 @@ img{
 #slogan{
 	font-family: 'Vollkorn', serif;
 	font-style: normal;
-	font-size: 1.5em;	
+	font-size: 1.25em;	
+}
+.border{
+	border-style:solid;
+	border-width:2px;
+	border-color:#fff;
+	color:#fff;
+	text-align:center;
+	padding:1em;
+	width:25%;
 }
