@@ -7,8 +7,7 @@ body {
 	text-align:left;	
 }
 header{
-	background-color:#fff;
-	height:25 vh;
+	height:100vh;
 	padding:50px;
 
 }
@@ -25,6 +24,11 @@ nav{
 	text-align:right;
 	text-decoration:none;
 	text-transform:uppercase;
+}
+
+section#splash{
+	height:300px;
+
 }
 
 section#splash div{
@@ -53,7 +57,7 @@ img{
 }
 #slogan{
 	font-family: 'Vollkorn', serif;
-	font-style: normal;
+	font-style: italic;
 	font-size: 1.25em;	
 }
 .border{
