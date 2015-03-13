@@ -1,3 +1,4 @@
+* {margin:0;padding:0;box-sizing:border-box;}
 body {
 	background-color:#fffef8;
 	color:#323366;
@@ -8,9 +9,7 @@ body {
 }
 header{
 	background-color:#fff;
-	height:25vh;
 	padding:50px;
-
 }
 a{
 	color:#F48E7D;
@@ -27,15 +26,14 @@ nav{
 	text-transform:uppercase;
 }
 section#splash{
+	background-image:url('images/splash_1.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
 	height:100vh;
 
 }
 
 section#splash div{
-	background-image:url('images/splash_1.jpg');
-	background-repeat: no-repeat;
-	background-size:cover;
-	height:100vh;
 	margin-top: 50px;
 	padding:50px;
 }
