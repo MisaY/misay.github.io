@@ -38,7 +38,7 @@ nav{
 section#splash div{
 	background-image:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
-	background-size:cover;
+	background-size: cover;
 	height:100vh;
 	padding:50px;
 }
@@ -62,5 +62,5 @@ img{
 #slogan{
 	font-family: 'Vollkorn', serif;
 	font-style: normal;
-	font-size: 1em;	
+	font-size: 1.5em;	
 }
