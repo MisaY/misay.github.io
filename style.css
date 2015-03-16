@@ -19,7 +19,7 @@ nav{
 	color:#F48E7D;
 	display: block;
 	font-family:'Sintony', sans-serif;
-	font-size:1.5em;
+	font-size:1.25em;
 	font-weight:700;
 	text-align:right;
 	text-decoration:none;
@@ -44,8 +44,8 @@ h1 {
 	font-weight:400;
 }
 h2{
-	color:#fff;
-	font-family:;
+	color:#F48E7D;
+	font-family:'Sintony', sans-serif;
 }
 hr{
 	color:#db776d;
