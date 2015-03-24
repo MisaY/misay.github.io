@@ -18,10 +18,10 @@ a{
 nav{
 	color:#F48E7D;
 	display: block;
+	float:right;
 	font-family:'Sintony', sans-serif;
 	font-size:1.25em;
 	font-weight:700;
-	text-align:right;
 	text-decoration:none;
 	text-transform:uppercase;
 }
