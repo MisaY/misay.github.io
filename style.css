@@ -24,6 +24,7 @@ nav{
 	font-weight:400;
 	text-decoration:none;
 	text-transform:uppercase;
+	margin-bottom:.5em
 }
 section#splash{
 	background-image:url('images/splash_1.jpg');
