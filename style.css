@@ -49,6 +49,7 @@ h2{
 	color:#F48E7D;
 	font-family:'Sintony', sans-serif;
 	font-size:1.25em;
+	margin:2em;
 }
 p{
 	margin:2em;
@@ -64,6 +65,7 @@ img{
 	font-family: 'Vollkorn', serif;
 	font-style: italic;
 	font-size: 1.25em;	
+	margin:0em;
 }
 .border{
 	border-style:solid;
