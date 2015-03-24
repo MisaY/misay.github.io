@@ -48,8 +48,9 @@ h2{
 	font-size:1.25em;
 	margin:2em;
 }
-p,li{
+p{
 	margin:2em;
+	font-family: 'Sintony', sans-serif;
 }
 hr{
 	color:#db776d;
