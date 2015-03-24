@@ -5,7 +5,6 @@ body {
 	font-family: 'Sintony', sans-serif;
 	font-size:16px;
 	font-weight:400;
-	margin:2em;
 	text-align:left;	
 }
 header{
@@ -31,10 +30,7 @@ section#splash{
 	background-repeat: no-repeat;
 	background-size:cover;
 	height:100vh;
-	margin:0em;
-
 }
-
 section#splash div{
 	margin-top: 0px;
 	padding:50px;
@@ -44,6 +40,7 @@ h1 {
 	font-family:'Vollkorn', serif;
 	font-size:1.5em;
 	font-weight:400;
+	margin:2em;
 }
 h2{
 	color:#F48E7D;
