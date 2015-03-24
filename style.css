@@ -24,7 +24,7 @@ nav{
 	font-weight:400;
 	text-decoration:none;
 	text-transform:uppercase;
-	margin-bottom:1em
+	margin-bottom:1.25em
 }
 section#splash{
 	background-image:url('images/splash_1.jpg');
@@ -38,8 +38,7 @@ section#splash div{
 }
 section#about{
 	float:right;
-	width:50%
-	;
+	width:50%;
 
 }
 h1 {
