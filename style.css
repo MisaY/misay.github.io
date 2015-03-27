@@ -9,7 +9,7 @@ body {
 }
 header{
 	background-color:#fffef8;
-	padding:25px;
+	padding:1.25 em;
 }
 a{
 	color:#F48E7D;
@@ -30,6 +30,7 @@ section#splash{
 	background-image:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
 	background-size:cover;
+	display:block;
 	height:100vh;
 }
 section#splash div{
@@ -37,9 +38,13 @@ section#splash div{
 	padding:50px;
 }
 section#about{
-	float:right;
+	float:left;
+	padding:1em;
 	width:50%;
 
+section#frontimage{
+	float:left;
+	width:50%;
 }
 h1 {
 	color:#db776d;
