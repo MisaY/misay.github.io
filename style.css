@@ -9,6 +9,7 @@ body {
 }
 header{
 	background-color:#fffef8;
+	float:left;
 	padding:2em;
 }
 a{
@@ -32,6 +33,7 @@ section#splash{
 	background-size:cover;
 	display:block;
 	height:100vh;
+
 }
 section#splash div{
 	margin-top: 0px;
@@ -73,8 +75,9 @@ img{
 #slogan{
 	font-family: 'Vollkorn', serif;
 	font-style: bold;
-	font-size: 1.25em;	
-	margin:0em;
+	font-size: 1.25em;
+	float:left;	
+	margin:2em;
 }
 .border{
 	border-style:solid;
