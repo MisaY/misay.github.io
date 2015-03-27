@@ -38,6 +38,7 @@ section#splash div{
 	padding:50px;
 }
 section#about{
+	display:block;
 	float:left;
 	padding:1em;
 	width:50%;
