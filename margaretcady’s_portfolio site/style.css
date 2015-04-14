@@ -1,0 +1,95 @@
+* {margin:0;padding:0;box-sizing:border-box;}
+body {
+	background-color:#fff;
+	color:#323366;
+	font-family: 'Sintony', sans-serif;
+	font-size:18px;
+	font-weight:400;
+	text-align:left;	
+}
+header{
+	background-color:#fffef8;
+	padding:2em;
+}
+a{
+	color:#F48E7D;
+	text-decoration:none;
+}
+nav{
+	color:#F48E7D;
+	display:block;
+	float:right;
+	font-family:'Sintony', sans-serif;
+	font-size:1.25em;
+	font-weight:400;
+	text-decoration:none;
+	text-transform:uppercase;
+	margin-bottom:1.25em
+}
+section#splash{
+	background-image:url('images/splash_1.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+	display:block;
+	height:100vh;
+}
+section#splash div{
+	margin-top: 0px;
+	padding:50px;
+}
+section#about{
+	display:block;
+	float:left;
+	padding:1em;
+	width:50%;
+
+section#frontimage{
+	float:left;
+	width:50%;
+}
+h1 {
+	color:#db776d;
+	font-family:'Vollkorn', serif;
+	font-size:1.5em;
+	font-weight:400;
+	margin:2em;
+}
+h2{
+	color:#F48E7D;
+	font-family:'Sintony', sans-serif;
+	font-size:1.25em;
+	margin:2em;
+}
+p{
+	margin:2em;
+	font-family: 'Vollkorn', serif;
+}
+hr{
+	color:#db776d;
+	height:2em;
+}
+img{
+	width:200px;
+}
+#slogan{
+	font-family: 'Vollkorn', serif;
+	font-style: bold;
+	font-size: 1.25em;	
+	margin:0em;
+}
+.border{
+	border-style:solid;
+	border-width:2px;
+	border-color:#fff;
+	color:#fff;
+	text-align:center;
+	padding:1em;
+	width:25%;
+}
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
+}
