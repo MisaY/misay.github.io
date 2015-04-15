@@ -97,7 +97,7 @@ footer {
 }
 .socialmedia{
 	float: right;
-	display: block;
+	display: inline-block;
 	text-decoration:none;
 }
 .clearfix:after { 
