@@ -1,12 +1,12 @@
 * {margin:0;padding:0;box-sizing:border-box;}
 body {
 	font-size: 18px;
-	color: blue;
 	font-family: 'Sintony', sans-serif;
 
 h1,h2 {
 	text-transform: uppercase;
 	border-bottom: none;
+	color:#00004C;
 	display: inline-block;
 	font-weight: 800;
 } 
