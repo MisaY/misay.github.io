@@ -19,7 +19,6 @@ h1 {
 h2 {
 	font-size: 1.5em;
 	padding: .8em 0;
-    color: #d8d507;	
 }
 
 img {
@@ -77,7 +76,8 @@ div{
 	float: left;
 }
 #services{
-  float: right;
+	background:#E7E56A;
+	float: right;
 }
 
 footer {
