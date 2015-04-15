@@ -96,9 +96,8 @@ footer {
   	clear: both;
 }
 .socialmedia{
-	width:10px;
 	float: right;
-	display:;
+	display:inline-block;
 }
 .clearfix:after { 
 	content: "."; 
