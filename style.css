@@ -19,7 +19,7 @@ h1 {
 h2 {
 	font-size: 1.5em;
 	padding: .8em 0;
-    color: #fffebb;	
+    color: ##d8d507;	
 }
 
 img {
@@ -56,8 +56,8 @@ nav a {
 	display: inline-block;
 }
 section{
-  background:##000033;
-  color: #fff;
+  background:#fff;
+  color: #19194F;
   overflow: auto;
 }
 div{
