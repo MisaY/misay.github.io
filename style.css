@@ -46,13 +46,13 @@ li{
 
 nav {
   float:right;
-  font-size: 1.5em;	
+  font-size: 1 em;	
 } 
 
 nav a {	
 	text-decoration: none;
 	color: black;
-	margin: 1.5em;
+	margin: .5em;
 	display: inline-block;
 }
 section{
