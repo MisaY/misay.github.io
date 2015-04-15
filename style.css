@@ -98,6 +98,7 @@ footer {
 .socialmedia{
 	width:10px;
 	float: right;
+	display:;
 }
 .clearfix:after { 
 	content: "."; 
