@@ -4,7 +4,7 @@ body {
 	font-family: 'Sintony', sans-serif;
 }
 
-h1,h2{
+h1,h2 {
 	text-transform: uppercase;
 	border-bottom: none;
 	color:#19194F;
@@ -19,7 +19,7 @@ h1 {
 h2 {
 	font-size: 1.5em;
 	padding: .8em 0;
-    color: ##d8d507;	
+    color: #d8d507;	
 }
 
 img {
@@ -73,7 +73,8 @@ div{
   background: #EFEFEF;
 }
 #about{
-  float: left;
+	background: #FFFEBB;
+	float: left;
 }
 #services{
   float: right;
