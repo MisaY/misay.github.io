@@ -21,6 +21,9 @@ h2 {
 	font-size: 1.5em;
 	padding: .8em 0;
 }
+h3{
+	font-size:.5em;
+}
 
 img {
 	display: block;
@@ -74,7 +77,7 @@ div{
   background: #efefef;
 }
 #about{
-	background: #fffebb;
+	background: #eeec96;
 	width:50%;
 	float: left;
 }
@@ -86,9 +89,14 @@ div{
 
 footer {
 	background:#fff;
-	text-align: center;
+	color:#14143f;
+	text-align:left;
 	padding: 1em 0;
   	clear: both;
+}
+.socialmedia{
+	width:10px;
+	float: right;
 }
 .clearfix:after { 
 	content: "."; 
