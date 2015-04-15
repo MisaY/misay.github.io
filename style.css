@@ -1,12 +1,12 @@
 * {margin:0;padding:0;box-sizing:border-box;}
 body {
 	font-size: 18px;
-	font-family: 'Open Sans', sans-serif;
-}
+	color: blue;
+	font-family: 'Sintony', sans-serif;
 
 h1,h2 {
 	text-transform: uppercase;
-	border-bottom: 4px solid black;
+	border-bottom: none;
 	display: inline-block;
 	font-weight: 800;
 } 
@@ -18,8 +18,7 @@ h1 {
 h2 {
 	font-size: 1.5em;
 	padding: .8em 0;
-  color: #fffebb;	
-  border-bottom-color:#fffebb;
+    color: #fffebb;	
 }
 
 img {
