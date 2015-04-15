@@ -96,8 +96,8 @@ footer {
   	clear: both;
 }
 .socialmedia{
-	float:right;
-	display:inline-block;
+	float: right;
+	display: block;
 	text-decoration:none;
 }
 .clearfix:after { 
