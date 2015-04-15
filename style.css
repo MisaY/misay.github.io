@@ -7,7 +7,7 @@ body {
 h1,h2 {
 	text-transform: uppercase;
 	border-bottom: none;
-	color:#19194F;
+	color:#19194f;
 	display: inline-block;
 	font-weight: 800;
 } 
@@ -37,28 +37,28 @@ li{
   float: left;
   width: 50%;
   height: 6em;
-  outline: 3px solid #222;
+  outline: 3px solid #14143f;
   text-align: center;
   line-height: 6em;
   color: #000;
-  background:#fff;
+  background:##efefef;
 }
 
 nav {
   float:right;
   font-size: 1em;
-  color: #E7E56A;
+  color: #e7e56a;
 } 
 
 nav a {	
 	text-decoration: none;
-	color: #E7E56A;
+	color: #e7e56a;
 	margin: .5em;
 	display: inline-block;
 }
 section{
   background:#fff;
-  color: #19194F;
+  color: #19194f;
   overflow: auto;
 }
 div{
@@ -71,15 +71,15 @@ div{
   display: block;
   width:100%;
   margin:0;
-  background: #EFEFEF;
+  background: #efefef;
 }
 #about{
-	background: #FFFEBB;
+	background: #fffebb;
 	width:50%;
 	float: left;
 }
 #services{
-	background:#E7E56A;
+	background:#e7e56a;
 	width:50%;
 	float: right;
 }
