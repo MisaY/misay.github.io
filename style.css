@@ -46,12 +46,11 @@ li{
 nav {
   float:right;
   font-size: 1em;
-  color:#E7E56A;
 } 
 
 nav a {	
 	text-decoration: none;
-	color: #19194F;
+	color: #E7E56A;
 	margin: .5em;
 	display: inline-block;
 }
