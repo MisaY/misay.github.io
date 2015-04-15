@@ -45,12 +45,13 @@ li{
 
 nav {
   float:right;
-  font-size: 1em;	
+  font-size: 1em;
+  color:#E7E56A;
 } 
 
 nav a {	
 	text-decoration: none;
-	color: black;
+	color: #19194F;
 	margin: .5em;
 	display: inline-block;
 }
