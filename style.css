@@ -33,20 +33,22 @@ section#splash{
 	display:block;
 	height:100vh;
 }
+
 section#splash div{
 	margin-top: 0px;
 	padding:50px;
 }
+
 section#about{
 	display:block;
 	float:left;
 	padding:1em;
 	width:50%;
-
-section#frontimage{
-	float:left;
-	width:50%;
 }
+h1,h2{
+	display:inline-block;
+}
+
 h1 {
 	color:#db776d;
 	font-family:'Vollkorn', serif;
@@ -60,15 +62,18 @@ h2{
 	font-size:1.25em;
 	margin:2em;
 }
+
 p{
 	margin:2em;
 	font-family: 'Vollkorn', serif;
 }
+
 hr{
 	color:#db776d;
 	height:2em;
 }
 img{
+	display:block;
 	width:25%;
 }
 #slogan{
