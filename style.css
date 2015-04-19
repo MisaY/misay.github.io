@@ -65,6 +65,7 @@ h2{
 
 p{
 	margin:2em;
+	display:inline-block;
 	font-family: 'Vollkorn', serif;
 }
 
@@ -81,6 +82,9 @@ img{
 	font-style: bold;
 	font-size: 1.25em;	
 	margin:0em;
+}
+#about{
+	float:left;
 }
 .border{
 	border-style:solid;
