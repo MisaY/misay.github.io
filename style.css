@@ -37,13 +37,13 @@ div#logo{
 
 div #splash{
 	display:none;
-}
+	background:url("images/splash_1.jpg");
+	background-repeat: no-repeat;
+	display:none;
+	height:100vh;}
 
 #splash{
-	background-image:url('images/splash_1.jpg');
-	background-repeat: no-repeat;
-	background-size:100%;
-	height:100vh;
+
 }
 
 div#imagesalon{
@@ -97,8 +97,6 @@ footer{
 	font-family:'Vollkorn', serif;
 	font-size:.75em;
 }
-
-
 
 .clearfix:after { 
 	content: "."; 
