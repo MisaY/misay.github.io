@@ -31,12 +31,16 @@ section{
 	display:inline-block;
 }
 
+div{
+	display:inline-block;
+}
+
 div#logo{
 	width:15%;
 }
 
 div #splash{
-	display:inline-block;
+	display: block;
 	width:100%;
 	padding:2%;
 }
@@ -64,9 +68,6 @@ div#contact{
 	width:100%;
 }
 
-div{
-	display:inline-block;
-}
 
 }
 h1,h2{
