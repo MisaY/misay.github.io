@@ -25,7 +25,7 @@ nav{
 	font-weight:400;
 	text-decoration:none;
 	text-transform:uppercase;
-	margin:.25em .5em .25em .5em;
+	margin:.25em .5em .25em 0;
 	float:right; 
 }
 section{
