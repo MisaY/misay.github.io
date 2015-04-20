@@ -36,16 +36,9 @@ div#logo{
 	width:15%;
 }
 
-#splash{
-	background-image:url('images/splash_1.jpg');
-	background-repeat: no-repeat;
-	background-size:cover;
-	display:block;
-	height:100vh;
-}
-
 div#splash {
 	width:100%;
+	display:block;
 }
 
 div#imagesalon{
