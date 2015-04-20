@@ -100,7 +100,11 @@ footer{
 	font-family:'Vollkorn', serif;
 	font-size:.75em;
 }
-
+.border{
+	border: 2px solid #92b901;
+	width:15%;
+	padding: 1%;
+}
 .clearfix:after { 
 	content: "."; 
 	visibility: hidden; 
