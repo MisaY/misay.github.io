@@ -11,7 +11,11 @@ header{
 	background-color:#fffef8;
 	padding:.5em;
 }
-
+a{
+	color:#F48E7D;
+	text-decoration:none;
+	display:inline-block;
+}
 nav{
 	color:#F48E7D;
 	display:block;
@@ -22,12 +26,6 @@ nav{
 	text-decoration:none;
 	text-transform:uppercase;
 	margin-bottom:1.25em
-}
-nav a {	
-	text-decoration: none;
-	color: #F48E7D;
-	margin: .5em;
-	display: inline-block;
 }
 
 div{
