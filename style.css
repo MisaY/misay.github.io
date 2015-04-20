@@ -19,13 +19,15 @@ a{
 }
 nav{
 	color:#F48E7D;
+	display:block;
 	display:inline-block;
+	float:right;
 	font-family:'Sintony', sans-serif;
 	font-size:1.25em;
 	font-weight:400;
 	text-decoration:none;
 	text-transform:uppercase;
-	float:right;
+	margin-bottom:.25em
 }
 section{
 	display:inline-block;
