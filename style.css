@@ -29,7 +29,6 @@ nav{
 }
 section{
 	display:inline-block;
-	overflow: auto;
 }
 
 div#logo{
@@ -44,7 +43,6 @@ div #splash{
 	background-image:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
 	background-size:100%;
-	display:inline-block;
 	height:100vh;
 }
 
