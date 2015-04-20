@@ -20,13 +20,13 @@ a{
 nav{
 	color:#F48E7D;
 	display:inline-block;
-	float:right;
 	font-family:'Sintony', sans-serif;
 	font-size:1.25em;
 	font-weight:400;
 	text-decoration:none;
 	text-transform:uppercase;
-	margin:.25em .5em .25em .5em; 
+	margin:.25em .5em .25em .5em;
+	float:right; 
 }
 section{
 	display:inline-block;
