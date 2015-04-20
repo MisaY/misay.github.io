@@ -100,8 +100,9 @@ p{
 	font-family: 'Vollkorn', serif;
 }
 hr{
-	border-width:.5em;
+	border-width:.25em;
 	border-color:#fff;
+	border-top:.25em;
 }
 footer{
 	width:100%;
