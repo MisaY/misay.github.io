@@ -26,6 +26,11 @@ nav{
 	text-transform:uppercase;
 	margin-bottom:1.25em
 }
+
+div{
+	display:inline-block;
+}
+
 div#logo{
 	width:23%;
 }
@@ -54,6 +59,8 @@ div#about{
 }
 
 div#contact{
+	float:left;
+	display:inline-block;
 
 }
 h1,h2{
@@ -80,10 +87,6 @@ p{
 	font-family: 'Vollkorn', serif;
 }
 
-
-div{
-	display:inline-block;
-}
 
 
 .clearfix:after { 
