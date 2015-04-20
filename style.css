@@ -48,7 +48,7 @@ div #splash{
 #splash{
 	background:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
-	height:100 vh;
+	height:400px;
 	width:100%;
 }
 
@@ -104,6 +104,8 @@ footer{
 	border: 2px solid #92b901;
 	width:15%;
 	padding: 1%;
+	margin:1em;
+	text-align:center;	
 }
 .clearfix:after { 
 	content: "."; 
