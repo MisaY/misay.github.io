@@ -37,14 +37,10 @@ div#logo{
 
 div #splash{
 	display:none;
-	background:url("images/splash_1.jpg");
+	background:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
 	display:none;
 	height:100vh;}
-
-#splash{
-
-}
 
 div#imagesalon{
 	float:left;
