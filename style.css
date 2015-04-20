@@ -53,6 +53,7 @@ div#imagesalon{
 }
 div#about{
 	float:left;
+	margin:1%;
 	padding:1%;
 	width:48%;
 }
