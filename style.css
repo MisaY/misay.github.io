@@ -25,10 +25,7 @@ nav{
 	font-weight:400;
 	text-decoration:none;
 	text-transform:uppercase;
-	margin-top:.25em;
-	margin-right: .5em; 
-	margin-bottom: .25em;
-	float:right; 
+	float:right;
 }
 section{
 	display:inline-block;
