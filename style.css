@@ -56,9 +56,9 @@ div #splash{
 
 div#imagesalon{
 	float:left;
-	width:50%;
+	width:49%;
 	height:400px;
-
+	margin:.5%;
 }
 
 div#about{
@@ -70,6 +70,7 @@ div#about{
 
 div#contact{
 	float:left;
+	height:400px;
 	width:100%;
 	background-color:#fffef8;
 }
