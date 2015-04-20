@@ -9,7 +9,7 @@ body {
 }
 header{
 	background-color:#fffef8;
-	padding:2em ;
+	padding:1em ;
 }
 a{
 	color:#F48E7D;
@@ -35,6 +35,7 @@ nav{
 }
 
 div#splash {
+	display:block;
 	margin-top: 0px;
 	padding:50px;
 }
@@ -46,7 +47,7 @@ div#about{
 	width:50%;
 }
 h1,h2{
-	display:inline-block;
+	display:inline;
 }
 
 h1 {
@@ -74,7 +75,7 @@ hr{
 	height:2em;
 }
 img{
-	display:block;
+	display:inline;
 	width:25%;
 }
 
