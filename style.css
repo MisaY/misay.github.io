@@ -11,10 +11,7 @@ header{
 	background-color:#fffef8;
 	padding:.5em;
 }
-a{
-	color:#F48E7D;
-	text-decoration:none;
-}
+
 nav{
 	color:#F48E7D;
 	display:block;
@@ -28,7 +25,7 @@ nav{
 }
 nav a {	
 	text-decoration: none;
-	color: #e7e56a;
+	color: #F48E7D;
 	margin: .5em;
 	display: inline-block;
 }
