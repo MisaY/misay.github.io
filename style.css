@@ -39,21 +39,22 @@ div#logo{
 }
 
 div#splash {
-	display:block;
 	width:100%;
 	padding:50px;
 }
 
 div#imagesalon{
-	display:inline;
 	float:left;
 	width:50%;
 }
 div#about{
-	display:block;
 	float:left;
 	padding:1em;
 	width:50%;
+}
+
+div#contact{
+
 }
 h1,h2{
 	display:inline;
