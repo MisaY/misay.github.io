@@ -9,7 +9,7 @@ body {
 }
 header{
 	background-color:#fffef8;
-	display:inline-block;
+	display:inline;
 	padding:.5em;
 }
 a{
