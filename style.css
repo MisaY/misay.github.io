@@ -50,13 +50,14 @@ div #splash{
 #splash{
 	background:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
-	height:400px;
+	height:450px;
 	width:100%;
 }
 
 div#imagesalon{
 	float:left;
 	width:50%;
+	height:450px;
 }
 div#about{
 	float:left;
