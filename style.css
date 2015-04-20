@@ -38,7 +38,8 @@ div#logo{
 
 div#splash {
 	width:100%;
-	display:block;
+	display:inline-block;
+	height:100vh;
 }
 
 div#imagesalon{
