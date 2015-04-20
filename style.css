@@ -36,9 +36,9 @@ div#logo{
 }
 
 div #splash{
-	display:block;
+	display:inline-block;
 	width:100%;
-	padding:50px;
+	padding:2%;
 }
 
 #splash{
@@ -46,8 +46,6 @@ div #splash{
 	background-repeat: no-repeat;
 	height:100 vh;
 	width:100%;
-	display:inline-block;
-
 }
 
 div#imagesalon{
