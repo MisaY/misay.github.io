@@ -43,7 +43,6 @@ div #splash{
 #splash{
 	background-image:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
-	background-size:cover;
 	display:block;
 	height:100vh;
 }
