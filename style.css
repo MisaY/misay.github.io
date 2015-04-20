@@ -39,7 +39,7 @@ div#logo{
 	width:15%;
 }
 
-#splash{
+div #splash{
 	background-image:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
 	display:inline-block;
