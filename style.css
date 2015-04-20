@@ -31,9 +31,6 @@ section{
 	display:inline-block;
 	overflow: auto;
 }
-div{
-	display:inline-block;
-}
 
 div#logo{
 	width:15%;
@@ -61,6 +58,11 @@ div#about{
 div#contact{
 	float:left;
 	width:100%;
+}
+
+div{
+	display:inline-block;
+}
 
 }
 h1,h2{
