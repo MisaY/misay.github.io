@@ -45,7 +45,6 @@ div#logo{
 
 div#splash {
 	width:100%;
-	padding:50px;
 }
 
 div#imagesalon{
@@ -54,13 +53,12 @@ div#imagesalon{
 }
 div#about{
 	float:left;
-	padding:1em;
-	width:50%;
+	padding:1%;
+	width:48%;
 }
 
 div#contact{
 	float:left;
-	display:inline-block;
 
 }
 h1,h2{
