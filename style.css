@@ -36,11 +36,18 @@ div#logo{
 }
 
 div #splash{
+	display:block;
+	width:100%;
+	padding:50px;
+}
+
+#splash{
 	background:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
-	height:100vh;
+	height:100 vh;
 	width:100%;
 	display:inline-block;
+
 }
 
 div#imagesalon{
