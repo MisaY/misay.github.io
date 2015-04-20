@@ -39,6 +39,8 @@ div #splash{
 	background:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
 	height:100vh;
+	width:100%;
+	display:inline-block;
 }
 
 div#imagesalon{
