@@ -38,8 +38,8 @@ div#logo{
 div #splash{
 	background:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
-	display:none;
-	height:100vh;}
+	height:100vh;
+}
 
 div#imagesalon{
 	float:left;
