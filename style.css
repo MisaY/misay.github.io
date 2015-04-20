@@ -9,7 +9,7 @@ body {
 }
 header{
 	background-color:#fffef8;
-	padding:2em;
+	padding:2em ;
 }
 a{
 	color:#F48E7D;
@@ -26,7 +26,7 @@ nav{
 	text-transform:uppercase;
 	margin-bottom:1.25em
 }
-section#splash{
+#splash{
 	background-image:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
 	background-size:cover;
@@ -34,12 +34,12 @@ section#splash{
 	height:100vh;
 }
 
-section#splash div{
+#splash div{
 	margin-top: 0px;
 	padding:50px;
 }
 
-section#about{
+#about{
 	display:block;
 	float:left;
 	padding:1em;
@@ -77,15 +77,7 @@ img{
 	display:block;
 	width:25%;
 }
-#slogan{
-	font-family: 'Vollkorn', serif;
-	font-style: bold;
-	font-size: 1.25em;	
-	margin:0em;
-}
-#about{
-	float:left;
-}
+
 
 
 .clearfix:after { 
