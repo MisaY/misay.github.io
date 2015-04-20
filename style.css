@@ -87,7 +87,13 @@ p{
 	display:inline-block;
 	font-family: 'Vollkorn', serif;
 }
-
+footer{
+	width:100%;
+	text-align:center;
+	color:#db776d;
+	font-family:'Vollkorn', serif;
+	font-size:.5em;
+}
 
 
 .clearfix:after { 
