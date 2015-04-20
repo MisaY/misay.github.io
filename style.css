@@ -61,6 +61,7 @@ div#imagesalon{
 }
 
 div#about{
+	background-color:#F9C7BE;
 	float:left;
 	margin:1%;
 	padding:1%;
@@ -68,6 +69,7 @@ div#about{
 }
 
 div#contact{
+	background-color:#BEF0F9;
 	float:left;
 	height:400px;
 	width:100%;
@@ -99,10 +101,7 @@ p{
 	display:inline-block;
 	font-family: 'Vollkorn', serif;
 }
-hr{
-	border-width:.5em;
-	border-color:#fff;
-}
+
 footer{
 	width:100%;
 	text-align:center;
