@@ -56,9 +56,8 @@ div #splash{
 
 div#imagesalon{
 	float:left;
-	width:49%;
+	width:50%;
 	height:400px;
-	margin:.5%;
 }
 
 div#about{
@@ -99,6 +98,10 @@ p{
 	margin:2em;
 	display:inline-block;
 	font-family: 'Vollkorn', serif;
+}
+hr{
+	border-width:.5em;
+	border-color:#fff;
 }
 footer{
 	width:100%;
