@@ -93,6 +93,9 @@ footer{
 	font-family:'Vollkorn', serif;
 	font-size:.75em;
 }
+.border{
+	width:15%;
+}
 
 
 .clearfix:after { 
