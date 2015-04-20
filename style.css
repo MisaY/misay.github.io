@@ -40,7 +40,7 @@ div#logo{
 }
 
 div #splash{
-	background-image:url('images/splash_1.jpg');
+	background-image:url("images/splash_1.jpg");
 	background-repeat: no-repeat;
 	display:none;
 	height:100vh;
