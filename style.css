@@ -33,13 +33,10 @@ nav{
 	display:block;
 	height:100vh;
 }
-div{
-	float:left;
-}
 
 div#splash {
 	display:block;
-	margin-top: 0px;
+	width:100%;
 	padding:50px;
 }
 
