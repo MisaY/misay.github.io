@@ -117,6 +117,9 @@ footer{
 	margin:1em;
 	text-align:center;	
 }
+.list-group-item{
+	color:#F48E7D;
+}
 .clearfix:after { 
 	content: "."; 
 	visibility: hidden; 
