@@ -84,24 +84,26 @@ h1,h2{
 }
 
 h1 {
+	margin:1em 0 2em 2em;
 	color:#db776d;
 	font-family:'Vollkorn', serif;
 	font-size:1.5em;
 	font-weight:400;
 }
-h2{
+h2{	
+	margin:1em 0 2em 2em;
 	color:#F48E7D;
 	font-family:'Sintony', sans-serif;
 	font-size:1.25em;
 }
 h3{
 	font-family:'Vollkorn', serif;
-	font-size:.5em;
+	font-size:1.5em;
 
 }
 
 p{
-	margin:2em;
+	margin:1em 0 2em 2em;
 	display:inline-block;
 	font-family: 'Vollkorn', serif;
 }
