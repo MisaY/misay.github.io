@@ -125,7 +125,15 @@ footer{
 .list-group-item{
 	color:#F48E7D;
 	width:1em;
+	height:1em;
 }
+
+ul.fa-ul{
+	width:1em;
+	height:1em;
+}
+
+
 .clearfix:after { 
 	content: "."; 
 	visibility: hidden; 
