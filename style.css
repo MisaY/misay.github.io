@@ -88,13 +88,16 @@ h1 {
 	font-family:'Vollkorn', serif;
 	font-size:1.5em;
 	font-weight:400;
-	margin:1em;
 }
 h2{
 	color:#F48E7D;
 	font-family:'Sintony', sans-serif;
 	font-size:1.25em;
-	margin:2em;
+}
+h3{
+	font-family:'Vollkorn', serif;
+	font-size:.5em;
+
 }
 
 p{
