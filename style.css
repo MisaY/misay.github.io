@@ -107,9 +107,7 @@ p{
 	display:inline-block;
 	font-family: 'Vollkorn', serif;
 }
-li{
-	margin:1em 0 0 2em;
-}
+
 footer{
 	width:100%;
 	text-align:center;
@@ -125,16 +123,19 @@ footer{
 	text-align:center;	
 }
 .list-group-item{
+	font-family:'FontAwesome';
 	color:#F48E7D;
 	width:1em;
 	height:1em;
 }
 
 ul.fa-ul{
+	font-family:'FontAwesome';
 	width:1em;
 	height:1em;
 }
 i.fafa-phone{
+	font-family:'FontAwesome';
 	width:2em;
 	color:#F48E7D;
 }
