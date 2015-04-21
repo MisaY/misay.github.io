@@ -124,7 +124,7 @@ footer{
 }
 .list-group-item{
 	color:#F48E7D;
-	width:10%;
+	width:1em;
 }
 .clearfix:after { 
 	content: "."; 
