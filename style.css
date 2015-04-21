@@ -132,7 +132,9 @@ ul.fa-ul{
 	width:1em;
 	height:1em;
 }
-
+i.fafa-phone{
+	width:1em;
+}
 
 .clearfix:after { 
 	content: "."; 
