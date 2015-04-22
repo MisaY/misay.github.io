@@ -27,7 +27,8 @@ nav{
 	font-weight:400;
 	text-decoration:none;
 	text-transform:uppercase;
-	margin-bottom:.25em
+	margin:5em 0 .25em 0;
+
 }
 section{
 	display:inline-block;
