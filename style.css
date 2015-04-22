@@ -153,3 +153,9 @@ i.fafa-phone{
 	height: 0; 
 	clear: both;
 }
+
+@media (max-width: 800px) {
+	nav{
+		float:none;
+	}
+}
