@@ -166,7 +166,14 @@ i.fafa-phone{
 }
 
 @media (max-width: 800px) {
-	nav{
+	{
 
 	}
 }
+
+@media only screen and (max-width: 480px) {
+	section{
+		display:block;
+		width:100%;
+	}
+}	
