@@ -58,6 +58,9 @@ div#imagesalon{
 	float:left;
 	width:50%;
 }
+#imagesalon{
+	width:50%;
+}
 
 div#about{
 	background-color:#E6F9FD;
