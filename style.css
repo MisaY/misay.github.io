@@ -166,11 +166,11 @@ i.fafa-phone{
 	}
 
 @media (max-width: 800px) {
-	{
+	div#about,#contact,#googlemap,#imagesalon{
 		display:block;
 		width:100%;
-
 	}
+
 }
 
 @media only screen and (max-width: 480px) {
