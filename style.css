@@ -103,7 +103,7 @@ h3{
 }
 
 p{
-	margin:1em 1em 2em 2em;
+	margin: .5em 2em 2em 2em;
 	display:inline-block;
 	font-family: 'Vollkorn', serif;
 }
@@ -133,6 +133,7 @@ footer{
 	width:1em;
 	height:1em;
 	display:inline;
+	margin-left:2em;
 }
 
 ul.fa-ul{
