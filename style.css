@@ -167,6 +167,8 @@ i.fafa-phone{
 
 @media (max-width: 800px) {
 	{
+		display:block;
+		width:100%;
 
 	}
 }
