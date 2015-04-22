@@ -185,7 +185,9 @@ i.fafa-phone{
 	#splash{
 	height:200px;
 }
-
+	div#contact{
+	width:100%;
+}
 	div{
 		display:block;
 		width:100%;
