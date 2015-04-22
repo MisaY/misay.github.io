@@ -144,18 +144,18 @@ footer{
 	height:1em;
 	display:inline;
 	margin-left:2em;
-}
+	}
 
 ul.fa-ul{
 	font-family:'FontAwesome';
 	width:1em;
 	height:1em;
-}
+	}
 i.fafa-phone{
 	font-family:'FontAwesome';
 	width:2em;
 	color:#F48E7D;
-}
+	}
 
 .clearfix:after { 
 	content: "."; 
@@ -163,7 +163,7 @@ i.fafa-phone{
 	display: block; 
 	height: 0; 
 	clear: both;
-}
+	}
 
 @media (max-width: 800px) {
 	{
@@ -172,8 +172,23 @@ i.fafa-phone{
 }
 
 @media only screen and (max-width: 480px) {
+	div#logo{
+		width:30%;
+		float:center;
+	}
+
 	section{
 		display:block;
 		width:100%;
 	}
+
+	#splash{
+	height:200px;
+}
+
+	div{
+		display:block;
+		width:100%;
+	}
+
 }	
