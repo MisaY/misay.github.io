@@ -69,6 +69,7 @@ div#about{
 div#contact{
 	background-color:#fff;
 	float:left;
+	display:inline-block;
 	height:400px;
 	width:50%;
 }
