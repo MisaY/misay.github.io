@@ -87,6 +87,9 @@ div#googlemap{
 	float:left;
 	width:50%;
 }
+iframe{
+	width:100%;
+}
 
 }
 h1,h2{
