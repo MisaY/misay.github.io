@@ -38,18 +38,18 @@ div{
 	display:inline-block;
 }
 
-div#logo{
+div.logo{
 	width:20%;
 	margin: .25em 0 .25em .5em;
 }
 
-div #splash{
+div .splash{
 	display: block;
 	width:100%;
 	padding:2%;
 }
 
-#splash{
+.splash{
 	background:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
 	position:relative;
@@ -169,7 +169,7 @@ i.fafa-phone{
 	clear: both;
 	}
 
-@media (max-width: 800px) {
+@media only screen and (max-width: 800px) {
 	div.about,.contact,.googlemap,.imagesalon{
 		display:block;
 		width:100%; 
@@ -178,7 +178,7 @@ i.fafa-phone{
 }
 
 @media only screen and (max-width: 480px) {
-	div#logo{
+	div.logo{
 		width:30%;
 		float:center;
 	}
@@ -188,7 +188,7 @@ i.fafa-phone{
 		width:100%;
 	}
 
-	#splash{
+	.splash{
 	height:200px;
 }
 	div.contact{
