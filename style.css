@@ -58,32 +58,32 @@ div #splash{
 	height:400px;
 }
 
-div#imagesalon{
+div.imagesalon{
 	float:left;
 	width:50%;
 
 }
-#imagesalon{
+.imagesalon{
 	width:50%;
 	height:400px;
 	position:static;
 }
 
-div#about{
+div.about{
 	background-color:#E6F9FD;
 	float:left;
 	width:50%;
 	height:400px;
 }
 
-div#contact{
+div.contact{
 	background-color:#fff;
 	float:left;
 	display:inline-block;
 	height:400px;
 	width:50%;
 }
-div#googlemap{
+div.googlemap{
 	float:left;
 	width:50%;
 }
@@ -170,9 +170,9 @@ i.fafa-phone{
 	}
 
 @media (max-width: 800px) {
-	div#about,#contact,#googlemap,#imagesalon{
+	div.about,.contact,.googlemap,.imagesalon{
 		display:block;
-		width:100%;
+		width:100%; 
 	}
 
 }
@@ -191,7 +191,7 @@ i.fafa-phone{
 	#splash{
 	height:200px;
 }
-	div#contact{
+	div.contact{
 	width:100%;
 }
 	div{
