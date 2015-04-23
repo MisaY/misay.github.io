@@ -52,6 +52,7 @@ div .splash{
 .splash{
 	background:url('images/splash_1.jpg');
 	background-repeat: no-repeat;
+	background-position:center;
 	position:relative;
 	float:right;
 	width:100%;
