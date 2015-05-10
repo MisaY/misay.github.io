@@ -43,7 +43,7 @@ div.logo{
 	margin: .25em 0 .25em .5em;
 }
 
-div .splash{
+div.splash{
 	display: block;
 	width:100%;
 	padding:2%;
@@ -68,6 +68,7 @@ div.imagesalon{
 	width:50%;
 	height:400px;
 	position:static;
+	background-position:center;
 }
 
 div.about{
@@ -156,6 +157,11 @@ ul.fa-ul{
 	width:1em;
 	height:1em;
 	}
+
+i{
+	font-family:'FontAwesome';
+
+}	
 i.fafa-phone{
 	font-family:'FontAwesome';
 	width:2em;
