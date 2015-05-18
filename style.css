@@ -68,14 +68,13 @@ section#about{
 background-color:#E6F9FD;
 display:block;
 float:left;
-
+position:static;
 }
 
 div.imsagesalon{
 	float:left;
 	display:block;
 	width:100%;
-	position: relative;
 }
 
 .imagesalon{
