@@ -258,8 +258,9 @@ i{
 /***************
    responsive
 ***************/
+@media only screen and (min-width: 961 px) and (max-width: 1000px) {
 
-@media only screen and (max-width: 960px) {
+@media only screen and (min-width: 601 px) and (max-width: 960px) {
 	div.about, div.imagesalon{
 		display:block;
 		width:100%;
@@ -267,7 +268,7 @@ i{
 	}
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 481px) and (max-width: 600px) {
 	.mobile-nav { 
 		display:block;
 		position:fixed; top:0; left:0; right:0;
@@ -276,7 +277,7 @@ i{
 		display:none;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (min-width:0px) and (max-width: 480px) {
 	div.logo{
 		width:30%;
 		float:center;
