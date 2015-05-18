@@ -260,7 +260,7 @@ i{
 ***************/
 
 @media only screen and (max-width: 960px) {
-	div.about,.contact,.googlemap,.imagesalon{
+	div.about, div.contact, div.googlemap, div.imagesalon{
 		display:block;
 		width:100%;
 
@@ -291,7 +291,7 @@ i{
 		height:200px;
 		float:center;
 	}
-	div.contact,.googlemap,.imagesalon{
+	div.contact, div.googlemap, div.imagesalon{
 	width:100%;
 	}
 
