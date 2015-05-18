@@ -70,14 +70,14 @@ width:100%;
 
 div.imsagesalon{
 	float:left;
+	display:block;
 	width:50%;
 
 }
 .imagesalon{
 	width:100%;
-	height:400px;
 	float:left;
-	background-position:center;
+	display:block;
 }
 
 div.about{
