@@ -225,13 +225,11 @@ i{
 ***************/
 
 @media only screen and (max-width: 960px) {
-	div.about,.contact,.googlemap,.imagesalon{
+	div.about,.contact,.imagesalon{
 		display:block;
 		width:100%;
 
 	}
-
-
 
 
 @media only screen and (max-width: 600px) {
@@ -239,7 +237,8 @@ i{
 		display:block;
 		position:fixed; top:0; left:0; right:0;
 	}
-	nav { display:none;
+	nav { 
+		display:none;
 }
 
 @media only screen and (max-width: 480px) {
@@ -260,6 +259,7 @@ i{
 	div.contact,.googlemap,.imagesalon{
 	width:100%;
 	}
+	
 	div{
 		display:block;
 		width:100%;
