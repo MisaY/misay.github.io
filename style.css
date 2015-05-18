@@ -51,6 +51,7 @@ div.splash{
 	display: block;
 	width:100%;
 	padding:2%;
+
 }
 
 .splash{
@@ -63,7 +64,7 @@ div.splash{
 	height:400px;
 }
 
-div.imagesalon{
+div.imsagesalon{
 	float:left;
 	width:50%;
 
@@ -141,12 +142,40 @@ footer{
 	font-family:'Vollkorn', serif;
 	font-size:.75em;
 }
-.border{
-	border: 2px solid #F48E7D;
+a.cta1 {
+	border-radius:.2em;
+	display:block;
+	padding:1.5em 0;
+	text-align:center;
+	text-decoration:none;
+	transition: all 250ms cubic-bezier(0.420, 0.000, 0.580, 1.000); 
+    	transition-timing-function: cubic-bezier(0.420, 0.000, 0.580, 1.000);
+}
+a.cta1{
+	border: 2em solid #F48E7D;
 	width:15%;
 	padding: 1%;
 	margin:1em;
 	text-align:center;	
+}
+a.cta1 span:last-child {
+	color:rgba(34,34,34,.0);
+	display:none;
+}
+a.cta1:hover {
+	background-color:#E91E63;
+	border:.2em #E91E63 solid;
+	transition: all 250ms cubic-bezier(0.420, 0.000, 0.580, 1.000); 
+    transition-timing-function: cubic-bezier(0.420, 0.000, 0.580, 1.000);
+}
+a.cta1:hover span:first-child {
+	display:none;
+}
+a.cta1:hover span:last-child {
+	color:rgba(255,255,255,1);
+	display:block;
+	transition: all 250ms cubic-bezier(0.420, 0.000, 0.580, 1.000); 
+    transition-timing-function: cubic-bezier(0.420, 0.000, 0.580, 1.000);
 }
 
 .list-group-item{
@@ -259,7 +288,7 @@ i{
 	div.contact,.googlemap,.imagesalon{
 	width:100%;
 	}
-	
+
 	div{
 		display:block;
 		width:100%;
