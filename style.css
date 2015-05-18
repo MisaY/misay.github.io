@@ -154,8 +154,8 @@ footer{
 	color:#F48E7D;
 	width:1em;
 	height:1em;
-	display:inline;
-	margin-left:2em;
+	display:inline-block;
+	margin:2em;
 	}
 
 i{
