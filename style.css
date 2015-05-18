@@ -71,9 +71,7 @@ float:left;
 position:static;
 }
 
-div.imsagesalon{
-	float:left;
-	display:block;
+img imsagesalon{
 	width:100%;
 }
 
