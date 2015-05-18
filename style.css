@@ -66,6 +66,9 @@ div.splash{
 }
 section#about{
 background-color:#E6F9FD;
+display:block;
+float:left;
+
 }
 
 div.imsagesalon{
