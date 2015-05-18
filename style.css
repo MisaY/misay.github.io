@@ -162,7 +162,7 @@ a.cta1{
 	text-align:center;	
 }
 a.cta1 span:last-child {
-	color:rgba(34,34,34,.0);
+	color:rgba(34,34,34,);
 	display:none;
 }
 a.cta1:hover {
