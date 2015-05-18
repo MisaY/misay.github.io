@@ -35,15 +35,15 @@ nav{
 
 }
 section{
-	display:inline-block;
+	display:block;
 }
 
 div{
-	display:inline-block;
+	display:block;
 }
 
 div.logo{
-	width:20%;
+	width:10em;
 	margin: .25em 0 .25em .5em;
 }
 
@@ -86,7 +86,7 @@ div.about{
 div.contact{
 	background-color:#fff;
 	float:left;
-	display:inline-block;
+	display:block;
 	height:400px;
 	width:50%;
 	padding:2em;
@@ -140,7 +140,7 @@ footer{
 	text-align:center;
 	color:#db776d;
 	font-family:'Vollkorn', serif;
-	font-size:.75em;
+	font-size:1em;
 }
 /***************
   CTA
@@ -189,7 +189,7 @@ a.cta1:hover span:last-child {
 	color:#F48E7D;
 	width:1em;
 	height:1em;
-	display:inline-block;
+	display:block;
 	margin:2em;
 	}
 
@@ -259,14 +259,14 @@ i{
    responsive
 ***************/
 @media only screen and (min-width: 961 px) and (max-width: 1000px) {
-
+}
 @media only screen and (min-width: 601 px) and (max-width: 960px) {
 	div.about, div.imagesalon{
 		display:block;
 		width:100%;
 
 	}
-
+}
 
 @media only screen and (min-width: 481px) and (max-width: 600px) {
 	.mobile-nav { 
@@ -275,6 +275,7 @@ i{
 	}
 	nav { 
 		display:none;
+	}
 }
 
 @media only screen and (min-width:0px) and (max-width: 480px) {
@@ -292,6 +293,7 @@ i{
 		height:200px;
 		float:center;
 	}
+	
 	div.contact, div.googlemap,{
 	width:100%;
 	}
@@ -300,6 +302,8 @@ i{
 		display:block;
 		width:100%;
 	}
-	
+	nav { 
+		display:none;
+	}
 
 }	
