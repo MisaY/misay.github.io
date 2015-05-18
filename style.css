@@ -146,6 +146,9 @@ footer{
 	margin:1em;
 	text-align:center;	
 }
+.contact{
+	margin-right:2em;
+}
 .list-group-item{
 	font-family:'FontAwesome';
 	color:#F48E7D;
