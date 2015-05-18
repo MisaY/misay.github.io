@@ -65,17 +65,14 @@ div.splash{
 	height: 400px;
 }
 section #about{
-background-color:
-#E6F9FD;
-height:400px;
+background-color:#E6F9FD;
 }
 
 div.imsagesalon{
 	float:left;
 	display:block;
-	width:50%;
-
 }
+
 .imagesalon{
 	width:50%;
 	float:left;
