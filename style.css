@@ -87,6 +87,7 @@ div.contact{
 	display:inline-block;
 	height:400px;
 	width:50%;
+	padding:2em;
 }
 div.googlemap{
 	float:left;
@@ -146,9 +147,7 @@ footer{
 	margin:1em;
 	text-align:center;	
 }
-.contact{
-	padding-left:2em;
-}
+
 .list-group-item{
 	font-family:'FontAwesome';
 	color:#F48E7D;
