@@ -66,8 +66,7 @@ div.splash{
 section #about{
 background-color:#E6F9FD;
 width:100%;
-float:left;
-display:block;
+height:100vh;
 }
 
 div.imsagesalon{
