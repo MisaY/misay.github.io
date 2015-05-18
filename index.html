@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 	<meta charset="UTF-8">
 	<title>Villa Bella Salon</title>
 	<link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700|Sintony:400,700' rel='stylesheet' type='text/css'>
@@ -12,11 +13,29 @@
 		<div class="logo">
 			<img src="images/villabella_logo.svg" alt="Villa Bella logo">
 		</div>	
-		<nav>
+		<nav class="desktop">
   			<a href="/menue/">MENU</a> |
  			<a href="/looks/">LOOKS</a> |
   			<a href="/news/">NEWS</a>
 		</nav>
+
+	<div class="mobile-nav">
+    	 <div class="menu-btn" id="menu-btn">
+	<div></div>
+	<span></span>
+	<span></span>
+	<span></span>
+     	</div>
+ 
+     <div class="responsive-menu">
+        <ul>
+           <li>MENU</li>
+           <li>LOOKS</li>
+           <li>NEWS</li>
+        </ul>
+     </div>
+</div>
+
 	</header>
 	
 	<section>
@@ -53,6 +72,13 @@
 	</section>
 
 <footer>©2015 Villa Bella Salon</footer>
+<script type="text/javascript">
+jQuery(function($){
+    	     $( '.menu-btn' ).click(function(){
+    	     $('.responsive-menu').toggleClass('expand')
+    	     })
+        })
+</script>
 
 </body>
 </html>
