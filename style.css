@@ -163,13 +163,9 @@ ul.fa-ul{
 
 i{
 	font-family:'FontAwesome';
+	display: block;
 
 }	
-i.fafa-phone{
-	font-family:'FontAwesome';
-	width:2em;
-	color:#F48E7D;
-	}
 
 .clearfix:after { 
 	content: "."; 
