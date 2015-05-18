@@ -30,7 +30,7 @@ nav{
 	font-weight:400;
 	text-decoration:none;
 	text-transform:uppercase;
-	margin: 0 1em .25em 0;
+	margin: 1em 1em .25em 0;
 	position: relative;
 
 }
@@ -232,14 +232,14 @@ i{
 	}
 
 
-}
+
 
 @media only screen and (max-width: 600px) {
 	.mobile-nav { 
 		display:block;
 		position:fixed; top:0; left:0; right:0;
 	}
-	nav { display:none; }
+	nav { display:none;
 }
 
 @media only screen and (max-width: 480px) {
@@ -254,7 +254,8 @@ i{
 	}
 
 	.splash{
-	height:200px;
+		height:200px;
+		float:center;
 	}
 	div.contact,.googlemap,.imagesalon{
 	width:100%;
