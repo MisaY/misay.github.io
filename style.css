@@ -71,7 +71,9 @@ float:left;
 position:static;
 }
 
-img imsagesalon{
+div.imsagesalon{
+	float:left;
+	display:block;
 	width:100%;
 }
 
@@ -80,6 +82,9 @@ img imsagesalon{
 	float:left;
 	display:block;
 	position:relative;
+}
+.imagesalon img{
+	width:100%;
 }
 
 div.about{
