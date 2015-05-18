@@ -72,7 +72,7 @@ div.imsagesalon{
 .imagesalon{
 	width:50%;
 	height:400px;
-	position:static;
+	float:left;
 	background-position:center;
 }
 
