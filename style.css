@@ -189,7 +189,6 @@ i.fafa-phone{
 	div.about,.contact,.googlemap,.imagesalon{
 		display:block;
 		width:100%;
-		overflow: auto;
 
 	}
 
