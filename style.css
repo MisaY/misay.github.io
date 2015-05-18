@@ -155,7 +155,7 @@ a.cta1 {
     	transition-timing-function: cubic-bezier(0.420, 0.000, 0.580, 1.000);
 }
 a.cta1{
-	border: 2em solid #F48E7D;
+	border: .2em solid #F48E7D;
 	width:15%;
 	padding: 1%;
 	margin:1em;
@@ -291,7 +291,7 @@ i{
 		height:200px;
 		float:center;
 	}
-	div.contact, div.googlemap, div.imagesalon{
+	div.contact, div.googlemap,{
 	width:100%;
 	}
 
