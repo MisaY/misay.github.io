@@ -180,7 +180,7 @@ i{
 	display:none;
 }
 .menu-btn {
-	background:#03A9F4;
+	background:#F48E7D;
 	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 	padding:1em;
 }
@@ -234,6 +234,14 @@ i{
 
 }
 
+@media only screen and (max-width: 600px) {
+	.mobile-nav { 
+		display:block;
+		position:fixed; top:0; left:0; right:0;
+	}
+	nav { display:none; }
+}
+
 @media only screen and (max-width: 480px) {
 	div.logo{
 		width:30%;
@@ -255,11 +263,6 @@ i{
 		display:block;
 		width:100%;
 	}
-	.mobile-nav { 
-		display:block;
-		position:fixed; top:0; left:0; right:0;
-	}
-	nav { display:none; }
-}
+	
 
 }	
