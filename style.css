@@ -140,7 +140,7 @@ footer{
 	width:100%;
 	text-align:center;
 	color:#db776d;
-	display:inline;
+	display:inline-block;
 	font-family:'Vollkorn', serif;
 	font-size:1em;
 }
