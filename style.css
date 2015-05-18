@@ -75,6 +75,7 @@ div.imsagesalon{
 	float:left;
 	display:block;
 	width:100%;
+	position: relative;
 }
 
 .imagesalon{
