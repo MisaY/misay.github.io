@@ -87,6 +87,7 @@ div.imsagesalon{
 img.imagesalon{
 	width:100%;
 	display:block;
+	position:relative;
 }
 
 div.about{
