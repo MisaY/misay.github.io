@@ -82,11 +82,9 @@ div.imagesalon{
 	width:100%;
 	float:left;
 	display:block;
+	height:100vh;
 }
-.imagesalon img{
-	width:100%;
-	position:relative;
-}
+
 div.about{
 	float:left;
 	width:50%;
