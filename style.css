@@ -72,7 +72,6 @@ float:left;
 }
 
 div.imsagesalon{
-	background-size:cover;
 	float:left;
 	display:block;
 }
@@ -81,6 +80,9 @@ div.imsagesalon{
 	width:50%;
 	float:left;
 	display:block;
+}
+img.imagesalon{
+	width:100%;
 }
 
 
