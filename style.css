@@ -81,10 +81,9 @@ div.imsagesalon{
 	float:left;
 	display:block;
 }
-img.imagesalon{
+img .imagesalon{
 	width:100%;
 }
-
 
 div.about{
 	float:left;
