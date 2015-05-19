@@ -74,11 +74,11 @@ float:left;
 div.imagesalon{
 	float:left;
 	display:block;
-	width:100%;
+	width:50%;
 }
 
 .imagesalon{
-	width:50%;
+	width:100%;
 	float:left;
 	display:block;
 }
