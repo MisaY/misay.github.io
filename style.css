@@ -78,6 +78,7 @@ div.imagesalon{
 }
 
 .imagesalon{
+	background:url('images/frontpage.jpg');
 	width:100%;
 	float:left;
 	display:block;
