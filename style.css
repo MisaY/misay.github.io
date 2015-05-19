@@ -80,7 +80,8 @@ div.imagesalon{
 .imagesalon{
 	width:50%;
 	position:relative;
-	top:120px;
+	display:block;
+	float:left;
 }
 .imagesalon img{
 	width:100%;
