@@ -79,10 +79,9 @@ div.imagesalon{
 
 .imagesalon{
 	background:url('images/frontpage.jpg');
-	width:100%;
+	width:50%;
 	float:left;
 	display:block;
-	position:relative;
 }
 
 div.about{
