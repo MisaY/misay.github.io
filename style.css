@@ -78,14 +78,9 @@ div.imsagesalon{
 	width:100%;
 }
 
-.imagesalon{
+img.imagesalon{
 	width:50%;
 	float:left;
-	display:block;
-	position:relative;
-}
-img.imagesalon{
-	width:100%;
 	display:block;
 	position:relative;
 }
