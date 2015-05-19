@@ -84,7 +84,7 @@ div.imagesalon{
 	width:100%;
 	float:left;
 	display:block;
-	position:static;
+	position:absolute;
 	background-size:cover;
 }
 
