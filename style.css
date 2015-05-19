@@ -82,7 +82,7 @@ div.imagesalon{
 	float:left;
 	display:block;
 }
-div .imagesalon img{
+.imagesalon img{
 	width:100%;
 	position:relative;
 }
