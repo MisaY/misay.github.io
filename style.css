@@ -71,18 +71,16 @@ display:block;
 float:left;
 }
 
-div.imsagesalon{
+div.imagesalon{
 	float:left;
 	display:block;
+	width:100%;
 }
 
 .imagesalon{
 	width:50%;
 	float:left;
 	display:block;
-}
-img .imagesalon{
-	width:100%;
 }
 
 div.about{
