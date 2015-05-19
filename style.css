@@ -84,6 +84,7 @@ div.imagesalon{
 }
 img .imagesalon{
 	width:100%;
+	position:relative;
 }
 div.about{
 	float:left;
