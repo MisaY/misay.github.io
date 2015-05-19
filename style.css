@@ -82,14 +82,15 @@ div.imagesalon{
 	float:left;
 	display:block;
 }
-img .imagesalon{
+div .imagesalon img{
 	width:100%;
 	position:relative;
 }
 div.about{
 	float:left;
 	width:50%;
-	display:block; 
+	display:block;
+	padding:2em; 
 }
 
 div.contact{
