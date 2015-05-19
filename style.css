@@ -69,7 +69,6 @@ section#about{
 background-color:#E6F9FD;
 display:block;
 float:left;
-position:static;
 }
 
 div.imsagesalon{
@@ -78,16 +77,18 @@ div.imsagesalon{
 	width:100%;
 }
 
-img.imagesalon{
+.imagesalon{
 	width:50%;
 	float:left;
 	display:block;
 	position:relative;
 }
+img.imagesalon{
+	width:100%;
+}
 
 div.about{
 	float:left;
-	width:30em;
 	width:50%;
 	background:#E6F9FD; 
 }
