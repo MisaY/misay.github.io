@@ -322,11 +322,3 @@ i{
 	}
 
 }	
-.bookmarklet-link {
-  border-radius: 4px;
-  background: linear-gradient(#eee, #ccc);
-  padding: 5px 10px;
-  border: 1px solid #999;
-  color: #222;
-  text-decoration: none;
-}
