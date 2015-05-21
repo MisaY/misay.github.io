@@ -95,8 +95,13 @@ div.about{
 	width:50%;
 	display:block;;
 }
+
+.about {
+	width:50%;
+}
+
 .about p{
-	width: 25%;
+	width:50%;
 }
 
 div.contact{
