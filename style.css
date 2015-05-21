@@ -31,7 +31,9 @@ nav{
 	text-decoration:none;
 	text-transform:uppercase;
 	margin: 1em 1em 2em 3em;
-	position: relative;
+	position: fixed;
+	top:2em;
+	bottom:2em;
 
 }
 section{
