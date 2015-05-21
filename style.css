@@ -96,6 +96,10 @@ div.about{
 	display:block;;
 }
 
+div.about p{
+	width:45em;
+}
+
 div.contact{
 	background-color:#fff;
 	float:left;
