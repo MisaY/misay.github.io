@@ -30,7 +30,7 @@ nav{
 	font-weight:400;
 	text-decoration:none;
 	text-transform:uppercase;
-	margin: 1em 1em .25em 3em;
+	margin: 1em 1em 2em 3em;
 	position: relative;
 
 }
@@ -44,7 +44,7 @@ div{
 
 div.logo{
 	width:10em;
-	margin: .25em 0 .25em .5em;
+	margin: .25em 0 2em 1em;
 }
 
 div.splash{
