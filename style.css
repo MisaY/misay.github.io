@@ -89,10 +89,9 @@ div.imagesalon{
 	float:left;
 }
 div.about{
-	float:left;
+	float:right;
 	width:50%;
 	display:block;;
-	right:0;
 }
 
 div.contact{
