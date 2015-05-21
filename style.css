@@ -95,9 +95,8 @@ div.about{
 	width:50%;
 	display:block;;
 }
-
-div.about p{
-	width:45em;
+.about p{
+	width: 45em;
 }
 
 div.contact{
